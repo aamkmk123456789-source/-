@@ -1,0 +1,6 @@
+{
+  "name": "مؤسسة المستشار هاني جميل للمحاماة",
+  "description": "الموقع الرسمي لمؤسسة المستشار هاني جميل للمحاماة والاستشارات القانونية - خبرة 35 عاماً في قضايا النقض والجنايات والقضايا المدنية والعسكرية بمصر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
